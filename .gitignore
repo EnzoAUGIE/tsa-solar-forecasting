@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Prophet / Stan build artifacts
+*.stan
+cmdstan-*/
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Env files
+.env

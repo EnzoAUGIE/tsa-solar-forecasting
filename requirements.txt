@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+statsmodels>=0.14
+prophet
+pmdarima
+notebook
+ipykernel
